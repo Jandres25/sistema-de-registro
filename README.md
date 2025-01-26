@@ -5,3 +5,5 @@
 Para correr la aplicación, debes ejecutar:
 
 ```npm install```
+
+Sistema de registro # 2
